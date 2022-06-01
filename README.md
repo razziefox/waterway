@@ -1,4 +1,4 @@
-![logo]
+![logo]\
 A simple reminder to drink water developed in the Godot Engine.
 
 # Downloads
