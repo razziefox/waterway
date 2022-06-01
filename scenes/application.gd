@@ -1,8 +1,7 @@
 extends Control
 
 # sets time variable to represent an hour
-var time = 10
-#3600
+var time = 3600
 
 func _ready():
 	
