@@ -15,7 +15,7 @@ run/main_scene="res://scenes/application.tscn"
 config/use_custom_user_dir=true
 config/custom_user_dir_name="waterway"
 config/icon="res://icon.png"
-config/windows_native_icon="res://icon.ico"
+config/windows_native_icon="res://assets/icons/icon.ico"
 
 [display]
 
